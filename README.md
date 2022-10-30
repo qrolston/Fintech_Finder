@@ -9,18 +9,18 @@ Mnuemonic seed phrase is provided by Ganache.
 We are sending and recording etherium transactions using ganache.
 
 **Steamlit build: Here is where you can hire a professional**
-![Streamlit build 1](images/1.png)
+![Streamlit build 1](Images/1.png)
 
 **Ganache Ledger: Recording of transaction**
-![Ganache 1](images/2.png)
+![Ganache 1](Images/2.png)
 
 
 **Second streamlit build**
-![Streamlit build 2](images/3.png)
+![Streamlit build 2](Images/3.png)
 
 
 **Second Ganache Ledger**
-![Ganache 2](images/4.png)
+![Ganache 2](Images/4.png)
 
 ## Technologies
 
