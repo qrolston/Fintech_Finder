@@ -6,9 +6,21 @@ FinTech Finder (stored as **fintech_finder.py**) is a python application that it
 Mnuemonic seed phrase is provided by Ganache.
 
 
+We are sending and recording etherium transactions using ganache.
+
+**Steamlit build: Here is where you can hire a professional**
+![Streamlit build 1](images/1.png)
+
+**Ganache Ledger: Recording of transaction**
+![Ganache 1](images/2.png)
 
 
+**Second streamlit build**
+![Streamlit build 2](images/3.png)
 
+
+**Second Ganache Ledger**
+![Ganache 2](images/4.png)
 
 ## Technologies
 
