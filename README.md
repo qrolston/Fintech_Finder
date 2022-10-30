@@ -1,12 +1,12 @@
 ## FinTech Finder
 
-FinTech Finder (stored as **fintech_finder.py**) is a python application used to demonstrate blockchain logging.
+FinTech Finder (stored as **fintech_finder.py**) is a python application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them.
 
-**Example of blockchain with multiple blocks**
-![screenshot of mulitple blocks](images/1.png)
 
-**Example of drop down window showing validity**
-![screenshot of drop down menu](images/2.png)
+Mnuemonic seed phrase is provided by Ganache.
+
+
+
 
 
 
